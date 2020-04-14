@@ -23,4 +23,4 @@ Flix is an app that allows users to browse movies from the [The Movie Database A
 <img src="https://github.com/ameza13/Unit-1-Flixter-Part-I/blob/master/FlixWalkthrough.gif" width=250><br>
 
 ### Notes
-Describe any challenges encountered while building the app.
+I had difficulties installing cocoapods. I did have installed xcode command line tools, but the library installed was not linked to my xcode IDE. After makin this link everything worked out. 
