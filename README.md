@@ -16,11 +16,14 @@ Flix is an app that allows users to browse movies from the [The Movie Database A
 - [x] (3pts) User can view the movie poster image for each movie.
 
 #### BONUS
-- [ ] (2pt) User can view the app on various device sizes and orientations.
+- [x] (2pt) User can view the app on various device sizes and orientations.
 - [ ] (1pt) Run your app on a real device.
 
 ### App Walkthrough GIF
 <img src="https://github.com/ameza13/Unit-1-Flixter-Part-I/blob/master/FlixWalkthrough.gif" width=250><br>
+Before Auto-layout
+<img src="https://github.com/ameza13/Unit-1-Flixter-Part-I/blob/master/FlixWalkthroughAutoLayout.gif" width=250><br>
+After Auto-layout
 
 ### Notes
 I had difficulties installing cocoapods. I did have installed xcode command line tools, but the library installed was not linked to my xcode IDE. After makin this link everything worked out. 
