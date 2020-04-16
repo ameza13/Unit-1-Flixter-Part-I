@@ -20,9 +20,9 @@ Flix is an app that allows users to browse movies from the [The Movie Database A
 - [ ] (1pt) Run your app on a real device.
 
 ### App Walkthrough GIF
-#### Before Auto-layout
+#### Before Auto-layout (iPhone 8)
 <img src="https://github.com/ameza13/Unit-1-Flixter-Part-I/blob/master/FlixWalkthrough.gif" width=250><br>
-#### After Auto-layout
+#### After Auto-layout (iPhone 11 Pro Max)
 <img src="https://github.com/ameza13/Unit-1-Flixter-Part-I/blob/master/FlixWalkthroughAutoLayout.gif" width=250><br>
 
 
